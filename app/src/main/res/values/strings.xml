@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sending Objects</string>
+    <string name="name_of_the_student">Name of the student</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="save">SAVE</string>
+    <string name="gender_of_the_student">Gender of the student</string>
+    <string name="roll_number_of_the_student">Roll Number of the student</string>
+    <string name="mobile_number_of_the_student">Mobile number of the student</string>
+</resources>
