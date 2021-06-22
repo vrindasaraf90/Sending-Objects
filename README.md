@@ -20,7 +20,7 @@ https://github.com/vrindasaraf90/Sending-Objects/releases/download/5.4.0/app-deb
 IMAGES
 
 
-![1](https://user-images.githubusercontent.com/72187181/118646145-bf5ea780-b76a-11eb-8c08-5099b9047a0b.jpeg)
+
 ![2](https://user-images.githubusercontent.com/72187181/118646148-bff73e00-b76a-11eb-85b4-694537f501d4.jpeg)
 
 ![3](https://user-images.githubusercontent.com/72187181/118646142-bec61100-b76a-11eb-9f98-642e3ca797a0.jpeg)
